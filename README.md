@@ -1,4 +1,4 @@
-Twitter Bootstrap 3 Jade
+Twitter Bootstrap 3 Slim
 ==================
 Sublime Text Plugin
 ==================
@@ -13,31 +13,31 @@ A sublime plugin complete with Twitter Bootstrap 3 snippets
 
 ## Dependency 
 
-- Jade language plugin
+- Slim language plugin
 
 ## Class name completion
 
 ## What's included - contents
-- [Alerts](https://github.com/rs459/bootstrap3-jade-sublime-plugin#alerts)
-- [Badges](https://github.com/rs459/bootstrap3-jade-sublime-plugin#badges)
-- [Breadcrumbs](https://github.com/rs459/bootstrap3-jade-sublime-plugin#breadcrumbs)
-- [Buttons](https://github.com/rs459/bootstrap3-jade-sublime-plugin#buttons)
-- [CDN](https://github.com/rs459/bootstrap3-jade-sublime-plugin#cdn)
-- [Grid](https://github.com/rs459/bootstrap3-jade-sublime-plugin#grid)
-- [Forms](https://github.com/rs459/bootstrap3-jade-sublime-plugin#forms)
-- [Icons](https://github.com/rs459/bootstrap3-jade-sublime-plugin#icons)
-- [Images](https://github.com/rs459/bootstrap3-jade-sublime-plugin#images)
-- [Input](https://github.com/rs459/bootstrap3-jade-sublime-plugin#input-fields-form-fields)
-- [Javascript Component](https://github.com/rs459/bootstrap3-jade-sublime-plugin#javascript-component)
-- [Labels](https://github.com/rs459/bootstrap3-jade-sublime-plugin#labels)
-- [List Groups](https://github.com/rs459/bootstrap3-jade-sublime-plugin#list-groups)
-- [Media Objects](https://github.com/rs459/bootstrap3-jade-sublime-plugin#media-objects)
-- [Navigation](https://github.com/rs459/bootstrap3-jade-sublime-plugin#navigation)
-- [Pagination](https://github.com/rs459/bootstrap3-jade-sublime-plugin#pagination)
-- [Panels](https://github.com/rs459/bootstrap3-jade-sublime-plugin#panels)
-- [Tables](https://github.com/rs459/bootstrap3-jade-sublime-plugin#tables)
-- [Templates](https://github.com/rs459/bootstrap3-jade-sublime-plugin#templates)
-- [License](https://github.com/rs459/bootstrap3-jade-sublime-plugin#license)
+- [Alerts](#alerts)
+- [Badges](#badges)
+- [Breadcrumbs](#breadcrumbs)
+- [Buttons](#buttons)
+- [CDN](#cdn)
+- [Grid](#grid)
+- [Forms](#forms)
+- [Icons](#icons)
+- [Images](#images)
+- [Input](#input-fields-form-fields)
+- [Javascript Component](#javascript-component)
+- [Labels](#labels)
+- [List Groups](#list-groups)
+- [Media Objects](#media-objects)
+- [Navigation](#navigation)
+- [Pagination](#pagination)
+- [Panels](#panels)
+- [Tables](#tables)
+- [Templates](#templates)
+- [License](#license)
 
 
 ### Alerts
