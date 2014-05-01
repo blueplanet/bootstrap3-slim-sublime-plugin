@@ -6,4 +6,4 @@ Update :
 - Holder.js
 - Htmlshiv.js
 
-Use of entity.name.tag.jade instead of source.jade (thank's to "rnosov")
+Use of entity.name.tag.slim instead of source.jade (thank's to "rnosov")
